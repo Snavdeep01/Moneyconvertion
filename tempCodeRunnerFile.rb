@@ -1,0 +1,1 @@
+raise until ar.include?(base_cur)
